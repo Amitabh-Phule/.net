@@ -1,0 +1,14 @@
+D:\.NET\Exp04\Sort_list_using_lambda\bin\Debug\net8.0\Sort_list_using_lambda.exe
+D:\.NET\Exp04\Sort_list_using_lambda\bin\Debug\net8.0\Sort_list_using_lambda.deps.json
+D:\.NET\Exp04\Sort_list_using_lambda\bin\Debug\net8.0\Sort_list_using_lambda.runtimeconfig.json
+D:\.NET\Exp04\Sort_list_using_lambda\bin\Debug\net8.0\Sort_list_using_lambda.dll
+D:\.NET\Exp04\Sort_list_using_lambda\bin\Debug\net8.0\Sort_list_using_lambda.pdb
+D:\.NET\Exp04\Sort_list_using_lambda\obj\Debug\net8.0\Sort_list_using_lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp04\Sort_list_using_lambda\obj\Debug\net8.0\Sort_list_using_lambda.AssemblyInfoInputs.cache
+D:\.NET\Exp04\Sort_list_using_lambda\obj\Debug\net8.0\Sort_list_using_lambda.AssemblyInfo.cs
+D:\.NET\Exp04\Sort_list_using_lambda\obj\Debug\net8.0\Sort_list_using_lambda.csproj.CoreCompileInputs.cache
+D:\.NET\Exp04\Sort_list_using_lambda\obj\Debug\net8.0\Sort_list_using_lambda.dll
+D:\.NET\Exp04\Sort_list_using_lambda\obj\Debug\net8.0\refint\Sort_list_using_lambda.dll
+D:\.NET\Exp04\Sort_list_using_lambda\obj\Debug\net8.0\Sort_list_using_lambda.pdb
+D:\.NET\Exp04\Sort_list_using_lambda\obj\Debug\net8.0\Sort_list_using_lambda.genruntimeconfig.cache
+D:\.NET\Exp04\Sort_list_using_lambda\obj\Debug\net8.0\ref\Sort_list_using_lambda.dll
