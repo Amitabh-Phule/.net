@@ -1,0 +1,22 @@
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5203
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp10\ProductAPI
+
+info: ProductAPI.Controllers.ProductsController[0]
+      API Request: Fetching product list.
+warn: ProductAPI.Controllers.ProductsController[0]
+      Cache Miss: Querying SQLite Database.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (11ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "p"."Id", "p"."Name", "p"."Price"
+      FROM "Products" AS "p"
+
+info: ProductAPI.Controllers.ProductsController[0]
+      API Request: Fetching product list.
+info: ProductAPI.Controllers.ProductsController[0]
+      Performance Boost: Returning data from Cache.
