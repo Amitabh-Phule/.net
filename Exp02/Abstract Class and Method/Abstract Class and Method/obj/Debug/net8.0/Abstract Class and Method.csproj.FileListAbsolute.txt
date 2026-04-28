@@ -1,0 +1,14 @@
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\bin\Debug\net8.0\Abstract Class and Method.exe
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\bin\Debug\net8.0\Abstract Class and Method.deps.json
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\bin\Debug\net8.0\Abstract Class and Method.runtimeconfig.json
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\bin\Debug\net8.0\Abstract Class and Method.dll
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\bin\Debug\net8.0\Abstract Class and Method.pdb
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\obj\Debug\net8.0\Abstract Class and Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\obj\Debug\net8.0\Abstract Class and Method.AssemblyInfoInputs.cache
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\obj\Debug\net8.0\Abstract Class and Method.AssemblyInfo.cs
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\obj\Debug\net8.0\Abstract Class and Method.csproj.CoreCompileInputs.cache
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\obj\Debug\net8.0\Abstract Class and Method.dll
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\obj\Debug\net8.0\refint\Abstract Class and Method.dll
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\obj\Debug\net8.0\Abstract Class and Method.pdb
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\obj\Debug\net8.0\Abstract Class and Method.genruntimeconfig.cache
+D:\.NET\Exp02\Abstract Class and Method\Abstract Class and Method\obj\Debug\net8.0\ref\Abstract Class and Method.dll

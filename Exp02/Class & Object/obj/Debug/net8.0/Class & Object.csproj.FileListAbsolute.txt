@@ -1,0 +1,14 @@
+D:\.NET\Exp02\Class & Object\bin\Debug\net8.0\Class & Object.exe
+D:\.NET\Exp02\Class & Object\bin\Debug\net8.0\Class & Object.deps.json
+D:\.NET\Exp02\Class & Object\bin\Debug\net8.0\Class & Object.runtimeconfig.json
+D:\.NET\Exp02\Class & Object\bin\Debug\net8.0\Class & Object.dll
+D:\.NET\Exp02\Class & Object\bin\Debug\net8.0\Class & Object.pdb
+D:\.NET\Exp02\Class & Object\obj\Debug\net8.0\Class & Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp02\Class & Object\obj\Debug\net8.0\Class & Object.AssemblyInfoInputs.cache
+D:\.NET\Exp02\Class & Object\obj\Debug\net8.0\Class & Object.AssemblyInfo.cs
+D:\.NET\Exp02\Class & Object\obj\Debug\net8.0\Class & Object.csproj.CoreCompileInputs.cache
+D:\.NET\Exp02\Class & Object\obj\Debug\net8.0\Class & Object.dll
+D:\.NET\Exp02\Class & Object\obj\Debug\net8.0\refint\Class & Object.dll
+D:\.NET\Exp02\Class & Object\obj\Debug\net8.0\Class & Object.pdb
+D:\.NET\Exp02\Class & Object\obj\Debug\net8.0\Class & Object.genruntimeconfig.cache
+D:\.NET\Exp02\Class & Object\obj\Debug\net8.0\ref\Class & Object.dll
