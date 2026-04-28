@@ -1,0 +1,14 @@
+D:\.NET\Exp03\Open Clousre Principle\OCP\bin\Debug\net8.0\OCP.exe
+D:\.NET\Exp03\Open Clousre Principle\OCP\bin\Debug\net8.0\OCP.deps.json
+D:\.NET\Exp03\Open Clousre Principle\OCP\bin\Debug\net8.0\OCP.runtimeconfig.json
+D:\.NET\Exp03\Open Clousre Principle\OCP\bin\Debug\net8.0\OCP.dll
+D:\.NET\Exp03\Open Clousre Principle\OCP\bin\Debug\net8.0\OCP.pdb
+D:\.NET\Exp03\Open Clousre Principle\OCP\obj\Debug\net8.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp03\Open Clousre Principle\OCP\obj\Debug\net8.0\OCP.AssemblyInfoInputs.cache
+D:\.NET\Exp03\Open Clousre Principle\OCP\obj\Debug\net8.0\OCP.AssemblyInfo.cs
+D:\.NET\Exp03\Open Clousre Principle\OCP\obj\Debug\net8.0\OCP.csproj.CoreCompileInputs.cache
+D:\.NET\Exp03\Open Clousre Principle\OCP\obj\Debug\net8.0\OCP.dll
+D:\.NET\Exp03\Open Clousre Principle\OCP\obj\Debug\net8.0\refint\OCP.dll
+D:\.NET\Exp03\Open Clousre Principle\OCP\obj\Debug\net8.0\OCP.pdb
+D:\.NET\Exp03\Open Clousre Principle\OCP\obj\Debug\net8.0\OCP.genruntimeconfig.cache
+D:\.NET\Exp03\Open Clousre Principle\OCP\obj\Debug\net8.0\ref\OCP.dll

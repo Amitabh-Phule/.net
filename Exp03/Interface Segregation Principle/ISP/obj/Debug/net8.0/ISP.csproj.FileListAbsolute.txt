@@ -1,0 +1,14 @@
+D:\.NET\Exp03\Interface Segregation Principle\ISP\bin\Debug\net8.0\ISP.exe
+D:\.NET\Exp03\Interface Segregation Principle\ISP\bin\Debug\net8.0\ISP.deps.json
+D:\.NET\Exp03\Interface Segregation Principle\ISP\bin\Debug\net8.0\ISP.runtimeconfig.json
+D:\.NET\Exp03\Interface Segregation Principle\ISP\bin\Debug\net8.0\ISP.dll
+D:\.NET\Exp03\Interface Segregation Principle\ISP\bin\Debug\net8.0\ISP.pdb
+D:\.NET\Exp03\Interface Segregation Principle\ISP\obj\Debug\net8.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp03\Interface Segregation Principle\ISP\obj\Debug\net8.0\ISP.AssemblyInfoInputs.cache
+D:\.NET\Exp03\Interface Segregation Principle\ISP\obj\Debug\net8.0\ISP.AssemblyInfo.cs
+D:\.NET\Exp03\Interface Segregation Principle\ISP\obj\Debug\net8.0\ISP.csproj.CoreCompileInputs.cache
+D:\.NET\Exp03\Interface Segregation Principle\ISP\obj\Debug\net8.0\ISP.dll
+D:\.NET\Exp03\Interface Segregation Principle\ISP\obj\Debug\net8.0\refint\ISP.dll
+D:\.NET\Exp03\Interface Segregation Principle\ISP\obj\Debug\net8.0\ISP.pdb
+D:\.NET\Exp03\Interface Segregation Principle\ISP\obj\Debug\net8.0\ISP.genruntimeconfig.cache
+D:\.NET\Exp03\Interface Segregation Principle\ISP\obj\Debug\net8.0\ref\ISP.dll

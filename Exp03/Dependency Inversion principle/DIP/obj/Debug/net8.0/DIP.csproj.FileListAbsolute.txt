@@ -1,0 +1,14 @@
+D:\.NET\Exp03\Dependency Inversion principle\DIP\bin\Debug\net8.0\DIP.exe
+D:\.NET\Exp03\Dependency Inversion principle\DIP\bin\Debug\net8.0\DIP.deps.json
+D:\.NET\Exp03\Dependency Inversion principle\DIP\bin\Debug\net8.0\DIP.runtimeconfig.json
+D:\.NET\Exp03\Dependency Inversion principle\DIP\bin\Debug\net8.0\DIP.dll
+D:\.NET\Exp03\Dependency Inversion principle\DIP\bin\Debug\net8.0\DIP.pdb
+D:\.NET\Exp03\Dependency Inversion principle\DIP\obj\Debug\net8.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp03\Dependency Inversion principle\DIP\obj\Debug\net8.0\DIP.AssemblyInfoInputs.cache
+D:\.NET\Exp03\Dependency Inversion principle\DIP\obj\Debug\net8.0\DIP.AssemblyInfo.cs
+D:\.NET\Exp03\Dependency Inversion principle\DIP\obj\Debug\net8.0\DIP.csproj.CoreCompileInputs.cache
+D:\.NET\Exp03\Dependency Inversion principle\DIP\obj\Debug\net8.0\DIP.dll
+D:\.NET\Exp03\Dependency Inversion principle\DIP\obj\Debug\net8.0\refint\DIP.dll
+D:\.NET\Exp03\Dependency Inversion principle\DIP\obj\Debug\net8.0\DIP.pdb
+D:\.NET\Exp03\Dependency Inversion principle\DIP\obj\Debug\net8.0\DIP.genruntimeconfig.cache
+D:\.NET\Exp03\Dependency Inversion principle\DIP\obj\Debug\net8.0\ref\DIP.dll

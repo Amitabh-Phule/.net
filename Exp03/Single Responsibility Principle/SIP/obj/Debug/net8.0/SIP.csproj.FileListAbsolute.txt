@@ -1,0 +1,14 @@
+D:\.NET\Exp03\Single Responsibility Principle\SIP\bin\Debug\net8.0\SIP.exe
+D:\.NET\Exp03\Single Responsibility Principle\SIP\bin\Debug\net8.0\SIP.deps.json
+D:\.NET\Exp03\Single Responsibility Principle\SIP\bin\Debug\net8.0\SIP.runtimeconfig.json
+D:\.NET\Exp03\Single Responsibility Principle\SIP\bin\Debug\net8.0\SIP.dll
+D:\.NET\Exp03\Single Responsibility Principle\SIP\bin\Debug\net8.0\SIP.pdb
+D:\.NET\Exp03\Single Responsibility Principle\SIP\obj\Debug\net8.0\SIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp03\Single Responsibility Principle\SIP\obj\Debug\net8.0\SIP.AssemblyInfoInputs.cache
+D:\.NET\Exp03\Single Responsibility Principle\SIP\obj\Debug\net8.0\SIP.AssemblyInfo.cs
+D:\.NET\Exp03\Single Responsibility Principle\SIP\obj\Debug\net8.0\SIP.csproj.CoreCompileInputs.cache
+D:\.NET\Exp03\Single Responsibility Principle\SIP\obj\Debug\net8.0\SIP.dll
+D:\.NET\Exp03\Single Responsibility Principle\SIP\obj\Debug\net8.0\refint\SIP.dll
+D:\.NET\Exp03\Single Responsibility Principle\SIP\obj\Debug\net8.0\SIP.pdb
+D:\.NET\Exp03\Single Responsibility Principle\SIP\obj\Debug\net8.0\SIP.genruntimeconfig.cache
+D:\.NET\Exp03\Single Responsibility Principle\SIP\obj\Debug\net8.0\ref\SIP.dll
