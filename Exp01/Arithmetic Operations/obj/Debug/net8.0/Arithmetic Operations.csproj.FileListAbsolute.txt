@@ -1,0 +1,14 @@
+D:\.NET\Exp01\Arithmetic Operations\bin\Debug\net8.0\Arithmetic Operations.exe
+D:\.NET\Exp01\Arithmetic Operations\bin\Debug\net8.0\Arithmetic Operations.deps.json
+D:\.NET\Exp01\Arithmetic Operations\bin\Debug\net8.0\Arithmetic Operations.runtimeconfig.json
+D:\.NET\Exp01\Arithmetic Operations\bin\Debug\net8.0\Arithmetic Operations.dll
+D:\.NET\Exp01\Arithmetic Operations\bin\Debug\net8.0\Arithmetic Operations.pdb
+D:\.NET\Exp01\Arithmetic Operations\obj\Debug\net8.0\Arithmetic Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp01\Arithmetic Operations\obj\Debug\net8.0\Arithmetic Operations.AssemblyInfoInputs.cache
+D:\.NET\Exp01\Arithmetic Operations\obj\Debug\net8.0\Arithmetic Operations.AssemblyInfo.cs
+D:\.NET\Exp01\Arithmetic Operations\obj\Debug\net8.0\Arithmetic Operations.csproj.CoreCompileInputs.cache
+D:\.NET\Exp01\Arithmetic Operations\obj\Debug\net8.0\Arithmetic Operations.dll
+D:\.NET\Exp01\Arithmetic Operations\obj\Debug\net8.0\refint\Arithmetic Operations.dll
+D:\.NET\Exp01\Arithmetic Operations\obj\Debug\net8.0\Arithmetic Operations.pdb
+D:\.NET\Exp01\Arithmetic Operations\obj\Debug\net8.0\Arithmetic Operations.genruntimeconfig.cache
+D:\.NET\Exp01\Arithmetic Operations\obj\Debug\net8.0\ref\Arithmetic Operations.dll
