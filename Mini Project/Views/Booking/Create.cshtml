@@ -1,0 +1,38 @@
+@model LocalServiceFinder.Models.Booking
+
+@{
+    ViewData["Title"] = "Book Service";
+}
+
+<h1>Book a Service</h1>
+<p>Select a user and provider, then choose a date.</p>
+
+<form asp-action="Create" method="post" class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="UserId" class="form-label"></label>
+        <select asp-for="UserId" class="form-select" asp-items="@(ViewData["Users"] as SelectList)">
+            <option value="">Select a user</option>
+        </select>
+        <span asp-validation-for="UserId" class="text-danger"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="ProviderId" class="form-label"></label>
+        <select asp-for="ProviderId" class="form-select" asp-items="@(ViewData["Providers"] as SelectList)">
+            <option value="">Select a provider</option>
+        </select>
+        <span asp-validation-for="ProviderId" class="text-danger"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Date" class="form-label"></label>
+        <input asp-for="Date" class="form-control" type="date" />
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+    <div class="col-12 mt-3">
+        <button type="submit" class="btn btn-primary">Create Booking</button>
+        <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
