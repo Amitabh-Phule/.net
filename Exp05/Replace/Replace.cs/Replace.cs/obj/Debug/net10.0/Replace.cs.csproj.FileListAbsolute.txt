@@ -1,0 +1,14 @@
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\bin\Debug\net10.0\Replace.cs.exe
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\bin\Debug\net10.0\Replace.cs.deps.json
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\bin\Debug\net10.0\Replace.cs.runtimeconfig.json
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\bin\Debug\net10.0\Replace.cs.dll
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\bin\Debug\net10.0\Replace.cs.pdb
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\obj\Debug\net10.0\Replace.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\obj\Debug\net10.0\Replace.cs.AssemblyInfoInputs.cache
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\obj\Debug\net10.0\Replace.cs.AssemblyInfo.cs
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\obj\Debug\net10.0\Replace.cs.csproj.CoreCompileInputs.cache
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\obj\Debug\net10.0\Replace.cs.dll
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\obj\Debug\net10.0\refint\Replace.cs.dll
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\obj\Debug\net10.0\Replace.cs.pdb
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\obj\Debug\net10.0\Replace.cs.genruntimeconfig.cache
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\Replace\Replace.cs\Replace.cs\obj\Debug\net10.0\ref\Replace.cs.dll

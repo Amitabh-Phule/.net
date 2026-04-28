@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net(clg)\\lab\\DOTNET-main\\DOTNET-main\\Experiments\\Exp05\\Replace\\Replace.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C883BAB0-FA0D-48D8-B77B-254C3A8244A8}|Replace.cs\\Replace.cs.csproj|d:\\.net(clg)\\lab\\dotnet-main\\dotnet-main\\experiments\\exp05\\replace\\replace.cs\\replace.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C883BAB0-FA0D-48D8-B77B-254C3A8244A8}|Replace.cs\\Replace.cs.csproj|solutionrelative:replace.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net(clg)\\lab\\DOTNET-main\\DOTNET-main\\Experiments\\Exp05\\Replace\\Replace.cs\\Replace.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Replace.cs\\Program.cs",
+              "ToolTip": "D:\\.net(clg)\\lab\\DOTNET-main\\DOTNET-main\\Experiments\\Exp05\\Replace\\Replace.cs\\Replace.cs\\Program.cs",
+              "RelativeToolTip": "Replace.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:34:25.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\bin\Debug\net10.0\MethodReturningTask.cs.exe
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\bin\Debug\net10.0\MethodReturningTask.cs.deps.json
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\bin\Debug\net10.0\MethodReturningTask.cs.runtimeconfig.json
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\bin\Debug\net10.0\MethodReturningTask.cs.dll
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\bin\Debug\net10.0\MethodReturningTask.cs.pdb
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\obj\Debug\net10.0\MethodReturningTask.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\obj\Debug\net10.0\MethodReturningTask.cs.AssemblyInfoInputs.cache
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\obj\Debug\net10.0\MethodReturningTask.cs.AssemblyInfo.cs
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\obj\Debug\net10.0\MethodReturningTask.cs.csproj.CoreCompileInputs.cache
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\obj\Debug\net10.0\MethodReturningTask.cs.dll
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\obj\Debug\net10.0\refint\MethodReturningTask.cs.dll
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\obj\Debug\net10.0\MethodReturningTask.cs.pdb
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\obj\Debug\net10.0\MethodReturningTask.cs.genruntimeconfig.cache
+D:\.net(clg)\lab\DOTNET-main\DOTNET-main\Experiments\Exp05\MethodReturningTask\MethodReturningTask.cs\MethodReturningTask.cs\obj\Debug\net10.0\ref\MethodReturningTask.cs.dll
